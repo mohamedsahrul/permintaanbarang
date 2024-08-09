@@ -281,7 +281,7 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`id_user`, `username`, `password`, `level`, `manajer`, `asmen`) VALUES
-(1, 'Admin_gudang', '827ccb0eea8a706c4c34a16891f84e7b', 'admin_gudang', 'M. Azharuddin, S.T', 'Merry Ariyanda, A.Md'),
+(1, 'Admin_gudang', 'admin123b', 'admin_gudang', 'M. Azharuddin, S.T', 'Merry Ariyanda, A.Md'),
 (2, 'Asmen_gudang', '827ccb0eea8a706c4c34a16891f84e7b', 'asisten_manajer', 'M. Azharuddin, S.T', 'Irwan Saputra, A.Md'),
 (3, 'Seberangulu1', '504ebd3761094b183a0a3b0bab044101', 'unit_pelayanan', 'Nuzul Fitrie, S.H', 'Muhammad Ridwan, A.Md'),
 (4, 'Seberangulu2', '50b71f3f427a371a1bec28a5c77c7e20', 'unit_pelayanan', 'A. Halim, S.T', 'Ari Chandra, S.T'),
